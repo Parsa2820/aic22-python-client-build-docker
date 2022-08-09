@@ -1,0 +1,3 @@
+[submodule "AIC22-Client-Python"]
+	path = AIC22-Client-Python
+	url = git@github.com:SharifAIChallenge/AIC22-Client-Python.git
